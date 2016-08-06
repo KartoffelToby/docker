@@ -2,7 +2,7 @@
 
 ## Networking
 
-### kartoffeltoby/caddy_proxy(https://hub.docker.com/r/kartoffeltoby/caddy_proxy/)
+#### [kartoffeltoby/caddy_proxy] (https://hub.docker.com/r/kartoffeltoby/caddy_proxy/)
 This is a Alpine Based Image with CaddyServer and Docker-Gen
 It's like the nginx-Proxy Image
 
