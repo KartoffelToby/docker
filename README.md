@@ -15,6 +15,7 @@ Usage:
 
 if your target Container hasn't exosed ports 80 or 443
 you can set the port via HOST_PORT=300
+
 ---
 #### [kartoffeltoby/docker-nas-samba] (https://hub.docker.com/r/kartoffeltoby/docker-nas-samba/)
 This is a Debian based Image wth Samba 4
